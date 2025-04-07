@@ -1,0 +1,12 @@
+Server started
+Server waiting on port 2100
+Client connected: /127.0.0.1
+Chat session started
+[23:48:06] Client: hi
+[23:48:06] Server: hello
+[23:48:48] Client: how are you
+[23:48:48] Server: i am good thank you
+[23:49:29] Client: i am also good 
+[23:49:29] Server: end
+[23:49:43] Client: end
+Chat session ended

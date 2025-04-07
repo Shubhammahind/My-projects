@@ -1,0 +1,11 @@
+Client started
+Connected to server
+Chat session started
+[23:48:06] You: hi
+[23:48:06] Server: hello
+[23:48:48] You: how are you
+[23:48:48] Server: i am good thank you
+[23:49:29] You: i am also good 
+[23:49:29] Server: end
+[23:49:43] You: end
+Chat session ended
