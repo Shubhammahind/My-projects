@@ -10,7 +10,7 @@ In this project we use Least Significant Bit (LSB) technique for embedding data.
 
 ## How to Run
 ### 1. Encoding
-` ``` `bash
+` ````bash
 ./a.out -e beautiful.bmp secret.txt stego.bmp
 
 ### 2. Decoding
