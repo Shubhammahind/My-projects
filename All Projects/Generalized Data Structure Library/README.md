@@ -19,6 +19,9 @@ operations on linear, non linear data structure in an object oriented way.
 - Get list size (`size`)
 - Clear the list (`clear`)
 
+## Technology Used
+- C++
+
 ## How to Run
 ```bash
 g++ GenericDataStructure.cpp
