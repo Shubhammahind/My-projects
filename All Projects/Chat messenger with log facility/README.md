@@ -11,10 +11,7 @@ A simple client-server chat application using Java sockets with logging function
 - Separate log files for each session
 
 ## How to Run
-## open two terimal(CMD prompt)
-### 1. First, start the Server:
+
+### 1. Compile both programs:
 ```bash
-javac Server.java
-java Server
-
-
+javac Server.java Client.java
