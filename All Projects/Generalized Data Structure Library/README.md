@@ -1,4 +1,5 @@
-##Generalized Data Structure Library
+## Generalized Data Structure Library
+
 This project is considered as a library which contains generic implementations of all major types
 of data structure.
 We provide the readymade implementations of all fundamental operations as well as advanced
