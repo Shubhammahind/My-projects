@@ -18,6 +18,9 @@ with all necessary details
   - Recreates files with original names and contents
   - Provides extraction summary
 
+## Technology Used
+  - Java
+
 ## How to Use
 
 ### 1. Compile the Programs:
