@@ -13,12 +13,8 @@ A simple client-server chat application using Java sockets with logging function
 ## How to Run
 ## open two terimal(CMD prompt)
 ### 1. First, start the Server:
-
+```bash
 javac Server.java
 java Server
 
-## 2. Then, start the Client:
-
-javac Client.java
-java Client
 
