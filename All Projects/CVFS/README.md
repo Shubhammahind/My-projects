@@ -10,7 +10,7 @@ file system implementation in C that simulates core file operations with permiss
 - **Seek Operations**: Supports START, CURRENT, END positioning
 - **In-Memory Storage**: 50 inodes with 2KB max file size each
 
-## Technologies Used
+## Technology Used
 - C (All syntax is in c language , but extension is .cpp)
 
 ## How to Run
