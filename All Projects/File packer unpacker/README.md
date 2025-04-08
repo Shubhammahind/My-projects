@@ -21,7 +21,7 @@ with all necessary details
 ## Technology Used
   - Java
 
-## How to Use
+## How to Run
 
 ### 1. Compile the Programs:
 ```bash
