@@ -18,7 +18,7 @@ javac Server.java Client.java
 
 ### 2. Open two separate terminal windows:
 ```bash
-terminal-1 : run server ->  java Server ,
+terminal-1 : run server ->  java Server 
 terminal-2 : run client ->  java Client
 
 
