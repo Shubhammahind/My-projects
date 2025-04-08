@@ -10,6 +10,9 @@ A simple client-server chat application using Java sockets with logging function
 - Graceful termination with "end" command
 - Separate log files for each session
 
+## Technology Used
+- Java
+
 ## How to Run
 
 ### 1. Compile both programs:
