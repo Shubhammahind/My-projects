@@ -15,7 +15,4 @@ file system implementation in C that simulates core file operations with permiss
 
 ## How to Run
 ```bash
-Customized_Virtual_File_System.cpp
-
-
-
+g++ Customized_Virtual_File_System.cpp
