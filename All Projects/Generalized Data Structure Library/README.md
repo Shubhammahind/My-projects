@@ -6,5 +6,5 @@ We provide the readymade implementations of all fundamental operations as well a
 operations on linear, non linear data structure in an object oriented way.
 
 ## How to Run
-
+```bash
 g++ GenericDataStructure.cpp
