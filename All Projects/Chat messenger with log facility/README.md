@@ -13,8 +13,9 @@ A simple client-server chat application using Java sockets with logging function
 ## How to Run
 
 ### 1. Compile both programs:
-``bash
-javac Server.java Client.java
+
+javac Server.java 
+Client.java
 
 ### 2. Open two separate terminal windows:
 ```bash
